@@ -64,3 +64,7 @@ By default the server will run in `http://localhost:3333`
 
 Read more about [Adonis.js](https://adonisjs.com/docs/4.1/installation)
 
+## API Documentation
+
+API documentation here: https://documenter.getpostman.com/view/628093/S1ZudWtt
+
